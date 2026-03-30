@@ -87,19 +87,8 @@ I like to explore **how AI can bridge theory and application**, from fine-tuning
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alhamza-Mohamed&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alhamza-Mohamed&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
-
+  <img src="https://streak-stats.demolab.com?user=Alhamza-Mohamed&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakNum=ffffff&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="180em"/>
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Alhamza-Mohamed\&theme=github-dark-blue\&hide_border=true\&background=0d1117\&stroke=58a6ff\&ring=58a6ff\&fire=ff6b35\&currStreakNum=ffffff\&sideNums=58a6ff\&currStreakLabel=58a6ff\&sideLabels=8b949e\&dates=8b949e)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🌐 Let's Connect
