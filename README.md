@@ -79,8 +79,7 @@ I like to explore **how AI can bridge theory and application**, from fine-tuning
 
 | Project                     | Description                                                                           | Link                                                      |
 | --------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| **RAG API Framework**       | Building modular retrieval-augmented generation APIs with FastAPI and LLM integration | [Repo]([https://github.com/Alhamza-Mohamed/RAG-API](https://github.com/Alhamza-Mohamed/llama.cpp_local_model))        |
-
+| **Local LLaMA RAG Project** | Running a local LLaMA.cpp model with RAG (retrieval-augmented generation) integration for offline LLM tasks | [Repo](https://github.com/Alhamza-Mohamed/llama.cpp_local_model) |
 
 ---
 
