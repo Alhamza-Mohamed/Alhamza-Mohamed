@@ -86,7 +86,7 @@ I like to explore **how AI can bridge theory and application**, from fine-tuning
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Alhamza-Mohamed&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakNum=ffffff&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&timezone=Africa/Cairo" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alhamza-Mohamed&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakNum=ffffff&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&timezone=Africa/Cairo&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 ---
