@@ -30,12 +30,13 @@ alhamza = {
 
 I like to explore **how AI can bridge theory and application**, from fine-tuning LLMs for practical tasks to designing efficient NLP pipelines. I also enjoy **connecting AI with other domains**, like math, physics, and systems engineering.
 
----
-
 ## ⚡ Currently
 
 - Studying **advanced NLP & representation learning**
 - Exploring **efficient LLM deployment & optimization**
+
+---
+
 
 ## 🤖 Core Expertise
 
@@ -43,7 +44,6 @@ I like to explore **how AI can bridge theory and application**, from fine-tuning
 
 ### 🔬 NLP & LLMs
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge\&logoColor=black)
 ![LLaMA](https://img.shields.io/badge/LLaMA-FF6B35?style=for-the-badge\&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge\&logo=spacy\&logoColor=white)
@@ -70,8 +70,9 @@ I like to explore **how AI can bridge theory and application**, from fine-tuning
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge\&logo=githubactions\&logoColor=white)
 
-### 🗃️ Other Languages & Tools
+### 🗃️ Languages & Tools
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
