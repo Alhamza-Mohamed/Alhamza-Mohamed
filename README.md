@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/Alhamza-Mohamed)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:alhamza.mohamed64@gmail.com)
+[![Open in Gmail](https://img.shields.io/badge/Open_in_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alhamza.mohamed64@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Alhamza-Mohamed)
 
 </div>
@@ -30,6 +31,11 @@ alhamza = {
 I like to explore **how AI can bridge theory and application**, from fine-tuning LLMs for practical tasks to designing efficient NLP pipelines. I also enjoy **connecting AI with other domains**, like math, physics, and systems engineering.
 
 ---
+
+## ⚡ Currently
+
+- Studying **advanced NLP & representation learning**
+- Exploring **efficient LLM deployment & optimization**
 
 ## 🤖 Core Expertise
 
@@ -79,9 +85,15 @@ I like to explore **how AI can bridge theory and application**, from fine-tuning
 
 | Project                     | Description                                                                           | Link                                                      |
 | --------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| **Local LLaMA RAG Project** | Running a local LLaMA.cpp model with RAG (retrieval-augmented generation) integration for offline LLM tasks | [Repo](https://github.com/Alhamza-Mohamed/llama.cpp_local_model) |
+| **Local LLaMA RAG Project** | Local LLM system using LLaMA.cpp with RAG pipeline for efficient, offline question answering and document understanding | [Repo](https://github.com/Alhamza-Mohamed/llama.cpp_local_model) |
 
 ---
+
+## 📊 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alhamza-Mohamed&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
 
 ## 📈 GitHub Stats
 
@@ -98,9 +110,9 @@ I like to explore **how AI can bridge theory and application**, from fine-tuning
 I'm always open to discussing **NLP research**, **LLM applications**, or **ML engineering** opportunities.
 I love diving into **production-ready AI systems** while keeping a **scientific and systems-oriented mindset**.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/Alhamza-Mohamed)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:alhamza.mohamed64@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Alhamza-Mohamed)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alhamza.mohamed64@gmail.com)
+[![Open in Gmail](https://img.shields.io/badge/Open_in_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alhamza.mohamed64@gmail.com)
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
